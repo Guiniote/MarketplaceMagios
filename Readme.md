@@ -8,7 +8,7 @@ Sitios web de referencia en los que nos basaremos para el trabajo:
 
 
 El equipo de desarrollo está conformado por:
-- Gabo (@gabodmc), que se dedica a la gastronomía y a las finanzas. Le gustan los deportes extremos y durante un tiempo robó como instructor de snowboard.
-- Gustavo -Colo- (@gustavomarin18), padre de un hijo de 10 años y próximamente de una hija también, por venir en mayo. Hincha de river, le gusta viajar y jugar al futbol y al tenis en sus tiempos libres.
-- Andi (@andrespujol), que trabaja en tesorería de clínica Cormillot. Le encanta el metal, es hincha de San Lorenzo y baterista en sus ratos libres.
-- Germán -Guiniote- (@Guiniote), amante del básquet, el fútbol y la música. intenta tocar la batería en sus tiempos libres y le encanta viajar.
+- Gabo @gabodmc , que se dedica a la gastronomía y a las finanzas. Le gustan los deportes extremos y durante un tiempo robó como instructor de snowboard.
+- Gustavo -Colo- @gustavomarin18 , padre de un hijo de 10 años y próximamente de una hija también, por venir en mayo. Hincha de river, le gusta viajar y jugar al futbol y al tenis en sus tiempos libres.
+- Andi @andrespujol , que trabaja en tesorería de clínica Cormillot. Le encanta el metal, es hincha de San Lorenzo y baterista en sus ratos libres.
+- Germán -Guiniote- @Guiniote , amante del básquet, el fútbol y la música. intenta tocar la batería en sus tiempos libres y le encanta viajar.
